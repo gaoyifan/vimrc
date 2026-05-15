@@ -47,6 +47,7 @@ vim-abolish https://github.com/tpope/vim-abolish
 rust.vim https://github.com/rust-lang/rust.vim
 vim-markdown https://github.com/plasticboy/vim-markdown
 vim-gist https://github.com/mattn/vim-gist
+gist-vim https://github.com/mattn/vim-gist
 vim-ruby https://github.com/vim-ruby/vim-ruby
 typescript-vim https://github.com/leafgarland/typescript-vim
 vim-javascript https://github.com/pangloss/vim-javascript
@@ -56,6 +57,8 @@ mru.vim https://github.com/vim-scripts/mru.vim
 editorconfig-vim https://github.com/editorconfig/editorconfig-vim
 dracula https://github.com/dracula/vim
 copilot.vim https://github.com/github/copilot.vim
+tabular https://github.com/godlygeek/tabular
+vim-lastplace https://github.com/farmergreg/vim-lastplace
 """.strip()
 
 GITHUB_ZIP = "%s/archive/master.zip"
